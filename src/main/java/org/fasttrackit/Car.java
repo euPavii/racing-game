@@ -1,8 +1,8 @@
 package org.fasttrackit;
 
 public class Car {
-
-    String name;
+    // instance variables
+    String name = "test";
     double fuelLevel;
     double mileage;
     double totalTraveledDistance;
